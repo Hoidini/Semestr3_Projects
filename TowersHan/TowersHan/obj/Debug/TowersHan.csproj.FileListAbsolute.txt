@@ -1,0 +1,10 @@
+D:\документы\c#\2 course\семистровки\HAN Towers\TowersHan\TowersHan\obj\Debug\TowersHan.csproj.AssemblyReference.cache
+D:\документы\c#\2 course\семистровки\HAN Towers\TowersHan\TowersHan\obj\Debug\TowersHan.Form1.resources
+D:\документы\c#\2 course\семистровки\HAN Towers\TowersHan\TowersHan\obj\Debug\TowersHan.Properties.Resources.resources
+D:\документы\c#\2 course\семистровки\HAN Towers\TowersHan\TowersHan\obj\Debug\TowersHan.csproj.GenerateResource.cache
+D:\документы\c#\2 course\семистровки\HAN Towers\TowersHan\TowersHan\obj\Debug\TowersHan.csproj.CoreCompileInputs.cache
+D:\документы\c#\2 course\семистровки\HAN Towers\TowersHan\TowersHan\bin\Debug\TowersHan.exe.config
+D:\документы\c#\2 course\семистровки\HAN Towers\TowersHan\TowersHan\bin\Debug\TowersHan.exe
+D:\документы\c#\2 course\семистровки\HAN Towers\TowersHan\TowersHan\bin\Debug\TowersHan.pdb
+D:\документы\c#\2 course\семистровки\HAN Towers\TowersHan\TowersHan\obj\Debug\TowersHan.exe
+D:\документы\c#\2 course\семистровки\HAN Towers\TowersHan\TowersHan\obj\Debug\TowersHan.pdb

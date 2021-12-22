@@ -1,0 +1,11 @@
+D:\документы\c#\2 course\семистровки\Analise\Analise\bin\Debug\Analise.exe.config
+D:\документы\c#\2 course\семистровки\Analise\Analise\bin\Debug\Analise.exe
+D:\документы\c#\2 course\семистровки\Analise\Analise\bin\Debug\Analise.pdb
+D:\документы\c#\2 course\семистровки\Analise\Analise\obj\Debug\Analise.csproj.AssemblyReference.cache
+D:\документы\c#\2 course\семистровки\Analise\Analise\obj\Debug\Analise.Form1.resources
+D:\документы\c#\2 course\семистровки\Analise\Analise\obj\Debug\Analise.Properties.Resources.resources
+D:\документы\c#\2 course\семистровки\Analise\Analise\obj\Debug\Analise.csproj.GenerateResource.cache
+D:\документы\c#\2 course\семистровки\Analise\Analise\obj\Debug\Analise.csproj.CoreCompileInputs.cache
+D:\документы\c#\2 course\семистровки\Analise\Analise\obj\Debug\Analise.exe
+D:\документы\c#\2 course\семистровки\Analise\Analise\obj\Debug\Analise.pdb
+D:\документы\c#\2 course\семистровки\Analise\Analise\obj\Debug\Analise.MessageForm.resources
